@@ -1,2 +1,2 @@
 # Fuel-calculator
-Calculates your vehicle's fuel cost.
+It calculates the cost of your vehicle to travel the specified route using features such as specified route length, direction type, fuel price.
